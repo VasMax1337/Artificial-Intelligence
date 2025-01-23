@@ -245,3 +245,29 @@ body {
     font-weight: 600;
     line-height: 25.6px;
 }
+
+.reviews-wrapper {
+    display: flex;
+    margin: 170px 387px;
+}
+
+.reviews {
+    width: 548px;
+    height: 464px;
+}
+
+.h2-2 {
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 52px;
+    margin-bottom: 40px;
+}
+
+.p-reviews {
+    margin-top: 20px;
+}
+
+.img-reviews {
+    width: 642px;
+    height: 551px;
+}
