@@ -224,6 +224,7 @@ body {
     align-items: center;
     width: 362px;
     height: 389px;
+    background-color:#030e25;
 }
 
 .main-pic {
@@ -270,4 +271,92 @@ body {
 .img-reviews {
     width: 642px;
     height: 551px;
+}
+
+.footer-wrapper {
+    display: flex;
+    margin-left: 424px;
+    margin-right: 357px;
+    margin-bottom: 148px;
+}
+
+.logo-footer {
+    margin-top: 74px;
+}
+
+.footer-title {
+    text-decoration: none;
+}
+
+.footer-p {
+    font-size: 14px;
+    font-weight: 450;
+    line-height: 17px;
+    margin-top: 10px;
+    margin-bottom: 37px;
+}
+
+.contacts {
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 17px;
+    margin-top: 20px;
+}
+
+.information {
+    width: 164px;
+    height: 260px;
+    margin-top: 100px;
+    margin-left: 31px;
+}
+
+.social-media {
+    width: 261px;
+    height: 260px;
+    margin-left: 31px;
+    margin-top: 100px;
+}
+
+h4 {
+    font-size: 15px;
+    font-weight: 450;
+    line-height: 17px;
+    margin-bottom: 32px;
+}
+
+.footer-text {
+    font-size: 14px;
+    font-weight: 450;
+    line-height: 17px;
+    margin-top: 20px;
+}
+
+.footer-store {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 17px;
+    margin-top: 32px;
+}
+
+.ww {
+    text-decoration: none;
+    color: #FFFFFF;
+}
+
+.www {
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 17px;
+    margin-top: 29px;
+    margin-bottom: 21px;
+}
+
+.media {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 40px;
+}
+
+.language {
+    margin-left: 5px;
 }
