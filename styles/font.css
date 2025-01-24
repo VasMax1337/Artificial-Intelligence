@@ -1,3 +1,19 @@
+/* open-sans-400 - latin */
+@font-face {
+  font-display: swap; 
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: url('../fonts/AnyConv.com__Roboto-Regular.woff2') format('woff2'); 
+}
+/* open-sans-500 - latin */
+@font-face {
+  font-display: swap; 
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 500;
+  src: url('../fonts/AnyConv.com__Roboto-Medium.woff2') format('woff2'); 
+}
 /* open-sans-600 - latin */
 @font-face {
     font-display: swap; 
